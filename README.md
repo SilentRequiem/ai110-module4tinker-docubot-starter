@@ -3,6 +3,7 @@
 DocuBot is a small documentation assistant that helps answer developer questions about a codebase.  
 It can operate in three different modes:
 
+
 1. **Naive LLM mode**  
    Sends the entire documentation corpus to a Gemini model and asks it to answer the question.
 
